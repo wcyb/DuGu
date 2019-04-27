@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/microchip-solid.png</file>
+        <file>images/cog-solid.png</file>
+    </qresource>
+</RCC>
