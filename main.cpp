@@ -8,7 +8,7 @@ int main(int argc, char *argv[])
     QCoreApplication::setOrganizationName("Wojciech Cybowski");
     QCoreApplication::setOrganizationDomain("https://github.com/wcyb");
     QCoreApplication::setApplicationName("DuGu");
-    QCoreApplication::setApplicationVersion("v1.0.0.0");
+    QCoreApplication::setApplicationVersion("v1.1.0.0");
     MainWindow w;
     w.show();
 

@@ -188,7 +188,7 @@
       <x>10</x>
       <y>205</y>
       <width>331</width>
-      <height>151</height>
+      <height>145</height>
      </rect>
     </property>
     <property name="title">
@@ -200,7 +200,7 @@
        <x>10</x>
        <y>20</y>
        <width>311</width>
-       <height>121</height>
+       <height>111</height>
       </rect>
      </property>
      <layout class="QVBoxLayout" name="layoutFile">
@@ -279,9 +279,9 @@
     <property name="geometry">
      <rect>
       <x>10</x>
-      <y>355</y>
+      <y>350</y>
       <width>331</width>
-      <height>211</height>
+      <height>215</height>
      </rect>
     </property>
     <property name="title">
@@ -293,7 +293,7 @@
        <x>9</x>
        <y>19</y>
        <width>311</width>
-       <height>171</height>
+       <height>181</height>
       </rect>
      </property>
      <layout class="QVBoxLayout" name="verticalLayout">
@@ -335,10 +335,10 @@
         <attribute name="verticalHeaderVisible">
          <bool>false</bool>
         </attribute>
-        <attribute name="verticalHeaderDefaultSectionSize">
+        <attribute name="verticalHeaderMinimumSectionSize">
          <number>30</number>
         </attribute>
-        <attribute name="verticalHeaderMinimumSectionSize">
+        <attribute name="verticalHeaderDefaultSectionSize">
          <number>30</number>
         </attribute>
         <attribute name="verticalHeaderStretchLastSection">
@@ -445,7 +445,7 @@
      <x>0</x>
      <y>0</y>
      <width>710</width>
-     <height>21</height>
+     <height>22</height>
     </rect>
    </property>
    <property name="acceptDrops">
